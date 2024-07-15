@@ -1,0 +1,24 @@
+	---: String InBuilt Methods :---
+	length()-> retrns no of chars
+	trim() -> removes unwanted spaces at both ends of string
+	toCharArray() -> coverts string to char array
+	toLowerCase() -> converts entire string to lowercase 
+	toUpperCase() -> converts entire string to uppercase 
+	startsWith() -> returns true if starts with char/sub string otherwise false
+	endsWith() -> returns true if ends with char/sub string otherwise false
+	contains() -> returns true if char in string
+	equals() -> returns true if both contents are same
+	equalsIgnoreCase() -> returns true if both contents are same irrespective of case
+	replace() ->replaces old with new char/seq
+	replaceAll() -> replaces all char/seq in string
+	valueOf() -> returns value present in string
+	isEmpty() -> returns true if string is empty
+	isBlank() -> returns true if string blank
+	indexOf() -> returns first occurence of char
+	lastIndexOf() -> returns last iccufence of given char
+	subString() -> returns sustring with given indices
+	split() -> splits string into array with separator
+	charAt() -> returns char at given index
+
+	
+
